@@ -1,0 +1,28 @@
+2021-01-16 19:55:28,679 :INFO : test_universe_batch :job id=165ac80268e459
+2021-01-16 19:55:29,107 :INFO : test_get :{
+  "status": "SUCCESS",
+  "result": {
+    "status": "done",
+    "universe_id": 14021
+  }
+}
+2021-01-16 19:55:29,107 :INFO : test_get :14021
+2021-01-16 19:55:29,401 :INFO : test_health_check :{
+  "service_name": "external_universe_service",
+  "status": "OK",
+  "overall_time": 4.291534423828125e-05
+}
+2021-01-16 19:55:34,416 :INFO : test_universe_batch :job id=165ac803be87ba
+2021-01-16 19:55:34,813 :INFO : test_get :{
+  "status": "SUCCESS",
+  "result": {
+    "status": "done",
+    "universe_id": 14021
+  }
+}
+2021-01-16 19:55:34,813 :INFO : test_get :14021
+2021-01-16 19:55:35,114 :INFO : test_health_check :{
+  "service_name": "external_universe_service",
+  "status": "OK",
+  "overall_time": 2.6941299438476562e-05
+}
