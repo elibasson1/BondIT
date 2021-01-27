@@ -18,6 +18,7 @@ class Test_bond:
         assert response.status_code == 200
         assert response_json["status"] == "SUCCESS"
         print(json.dumps(response_json, indent=2))
+        assert response_json["status"] == "SUCCESS"
         print(response_json["status"])
         universe_id = response_json["result"]["universe_id"]
         print(universe_id)
