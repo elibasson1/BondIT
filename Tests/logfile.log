@@ -72,3 +72,31 @@
   "status": "OK",
   "overall_time": 2.5987625122070312e-05
 }
+2021-01-28 13:27:59,421 :INFO : test_universe_batch :job id=165e61d3fe1dc9
+2021-01-28 13:27:59,810 :INFO : test_get :{
+  "status": "SUCCESS",
+  "result": {
+    "status": "done",
+    "universe_id": 14262
+  }
+}
+2021-01-28 13:27:59,811 :INFO : test_get :14262
+2021-01-28 13:28:00,127 :INFO : test_health_check :{
+  "service_name": "external_universe_service",
+  "status": "OK",
+  "overall_time": 2.5987625122070312e-05
+}
+2021-01-28 13:28:48,037 :INFO : test_universe_batch :job id=165e61df4fc0d1
+2021-01-28 13:28:48,442 :INFO : test_get :{
+  "status": "SUCCESS",
+  "result": {
+    "status": "done",
+    "universe_id": 14262
+  }
+}
+2021-01-28 13:28:48,442 :INFO : test_get :14262
+2021-01-28 13:28:48,735 :INFO : test_health_check :{
+  "service_name": "external_universe_service",
+  "status": "OK",
+  "overall_time": 2.193450927734375e-05
+}
