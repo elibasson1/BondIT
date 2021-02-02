@@ -1,102 +1,14 @@
-2021-01-16 19:55:28,679 :INFO : test_universe_batch :job id=165ac80268e459
-2021-01-16 19:55:29,107 :INFO : test_get :{
-  "status": "SUCCESS",
-  "result": {
-    "status": "done",
-    "universe_id": 14021
-  }
-}
-2021-01-16 19:55:29,107 :INFO : test_get :14021
-2021-01-16 19:55:29,401 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 4.291534423828125e-05
-}
-2021-01-16 19:55:34,416 :INFO : test_universe_batch :job id=165ac803be87ba
-2021-01-16 19:55:34,813 :INFO : test_get :{
-  "status": "SUCCESS",
-  "result": {
-    "status": "done",
-    "universe_id": 14021
-  }
-}
-2021-01-16 19:55:34,813 :INFO : test_get :14021
-2021-01-16 19:55:35,114 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 2.6941299438476562e-05
-}
-2021-01-26 20:26:20,516 :INFO : test_universe_batch :job id=165ddb7f0edf57
-2021-01-26 20:26:21,231 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 2.3126602172851562e-05
-}
-2021-01-26 20:32:01,773 :INFO : test_universe_batch :job id=165ddbce831945
-2021-01-26 20:32:16,315 :INFO : test_universe_batch :job id=165ddbd1e6169d
-2021-01-26 20:32:36,634 :INFO : test_universe_batch :job id=165ddbd6a12066
-2021-01-26 20:32:49,091 :INFO : test_universe_batch :job id=165ddbd987a0bc
-2021-01-26 20:32:49,406 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 2.193450927734375e-05
-}
-2021-01-26 20:38:48,012 :INFO : test_universe_batch :job id=165ddc2d18fbc9
-2021-01-26 20:44:24,081 :INFO : test_universe_batch :job id=165ddc7b58aa1b
-2021-01-26 20:44:37,911 :INFO : test_universe_batch :job id=165ddc7e90d3a0
-2021-01-26 20:45:03,951 :INFO : test_universe_batch :job id=165ddc84a0af14
-2021-01-26 20:45:04,271 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 2.4080276489257812e-05
-}
-2021-01-27 07:46:26,501 :INFO : test_get :{
+2021-02-02 14:57:09,699 :INFO : test_universe_batch :job id=165fef987f9faf
+2021-02-02 14:57:10,136 :INFO : test_get :{
   "status": "SUCCESS",
   "result": {
     "status": "done",
     "universe_id": 14262
   }
 }
-2021-01-27 07:46:26,504 :INFO : test_get :14262
-2021-01-27 07:47:37,514 :INFO : test_universe_batch :job id=165e00ac86c887
-2021-01-27 07:47:37,908 :INFO : test_get :{
-  "status": "SUCCESS",
-  "result": {
-    "status": "done",
-    "universe_id": 14262
-  }
-}
-2021-01-27 07:47:37,909 :INFO : test_get :14262
-2021-01-27 07:47:38,198 :INFO : test_health_check :{
+2021-02-02 14:57:10,136 :INFO : test_get :14262
+2021-02-02 14:57:10,464 :INFO : test_health_check :{
   "service_name": "external_universe_service",
   "status": "OK",
-  "overall_time": 2.5987625122070312e-05
-}
-2021-01-28 13:27:59,421 :INFO : test_universe_batch :job id=165e61d3fe1dc9
-2021-01-28 13:27:59,810 :INFO : test_get :{
-  "status": "SUCCESS",
-  "result": {
-    "status": "done",
-    "universe_id": 14262
-  }
-}
-2021-01-28 13:27:59,811 :INFO : test_get :14262
-2021-01-28 13:28:00,127 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 2.5987625122070312e-05
-}
-2021-01-28 13:28:48,037 :INFO : test_universe_batch :job id=165e61df4fc0d1
-2021-01-28 13:28:48,442 :INFO : test_get :{
-  "status": "SUCCESS",
-  "result": {
-    "status": "done",
-    "universe_id": 14262
-  }
-}
-2021-01-28 13:28:48,442 :INFO : test_get :14262
-2021-01-28 13:28:48,735 :INFO : test_health_check :{
-  "service_name": "external_universe_service",
-  "status": "OK",
-  "overall_time": 2.193450927734375e-05
+  "overall_time": 2.7179718017578125e-05
 }
